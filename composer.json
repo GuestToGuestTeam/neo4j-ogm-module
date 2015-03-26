@@ -1,6 +1,7 @@
 {
     "name": "guesttoguest/neo4j-ogm-module",
     "description": "Neo4jPHP OGM Module for Zend Framework 2",
+    "minimum-stability": "dev",
     "require": {
         "php": ">=5.3.3",
         "zendframework/zendframework": "2.3.*",
