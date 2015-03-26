@@ -6,7 +6,7 @@
         "php": ">=5.3.3",
         "zendframework/zendframework": "2.3.*",
         "doctrine/doctrine-orm-module": "0.*",
-        "guesttoguest/neo4jphp": "0.*",
+        "guesttoguest/neo4jphp": "~1.0.0",
         "hirevoice/neo4jphp-ogm": "~0.6.0"
     },
     "autoload": {
