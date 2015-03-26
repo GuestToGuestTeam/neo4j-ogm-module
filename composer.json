@@ -10,7 +10,7 @@
     },
     "autoload": {
         "psr-0": {
-            "Everyman\\Neo4j":"lib/",
+            "GuestToGuest\\Neo4j":"lib/",
             "HireVoice": "lib/",
             "Neo4jOGMModule": "src/"
         }
