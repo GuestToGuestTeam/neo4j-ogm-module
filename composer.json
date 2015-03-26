@@ -14,5 +14,11 @@
             "HireVoice": "lib/",
             "Neo4jOGMModule": "src/"
         }
-    }
+    },
+    "repositories": [
+        { 
+            "type": "vcs",
+            "url": "https://github.com/GuestToGuestTeam/neo4jphp"
+        }
+    ]
 }
