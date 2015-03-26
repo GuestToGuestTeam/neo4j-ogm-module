@@ -1,12 +1,12 @@
 {
-    "name": "opensoftstudio/neo4j-ogm-module",
+    "name": "guesttoguest/neo4j-ogm-module",
     "description": "Neo4jPHP OGM Module for Zend Framework 2",
     "require": {
         "php": ">=5.3.3",
         "zendframework/zendframework": "2.3.*",
         "doctrine/doctrine-orm-module": "0.*",
-        "everyman/neo4jphp": "dev-master",
-        "hirevoice/neo4jphp-ogm": "dev-master"
+        "guesttoguest/neo4jphp": "~1.0.0",
+        "hirevoice/neo4jphp-ogm": "~0.6.0"
     },
     "autoload": {
         "psr-0": {
