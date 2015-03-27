@@ -6,12 +6,12 @@
         "php": ">=5.3.3",
         "zendframework/zendframework": "2.3.*",
         "doctrine/doctrine-orm-module": "0.*",
-        "guesttoguest/neo4jphp": "~1.0.0",
-        "hirevoice/neo4jphp-ogm": "~0.6.0"
+        "guesttoguest/neo4jphp": "dev-master",
+        "guesttoguest/neo4jphp-ogm": "dev-master"
     },
     "autoload": {
         "psr-0": {
-            "GuestToGuest\\Neo4j":"lib/",
+            "Everyman\\Neo4j":"lib/",
             "HireVoice": "lib/",
             "Neo4jOGMModule": "src/"
         }
@@ -20,6 +20,10 @@
         { 
             "type": "vcs",
             "url": "https://github.com/GuestToGuestTeam/neo4jphp"
+        },
+        { 
+            "type": "vcs",
+            "url": "https://github.com/GuestToGuestTeam/Neo4j-PHP-OGM"
         }
     ]
 }
